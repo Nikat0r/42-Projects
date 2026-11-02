@@ -19,7 +19,7 @@ Each project lives in its own repository. The most substantial ones come first.
 | Project | What it is | Language |
 |---|---|---|
 | [Philosophers](https://github.com/Nikat0r/Philosophers) | The dining philosophers problem: threads, mutexes and avoiding deadlocks and data races | C |
-| [CPP_Modules](https://github.com/Nikat0r/CPP_Modules) | Exercises 00 to 09: classes, inheritance, templates and the STL, in C++98 | C++ |
+| [CPP_Modules](https://github.com/Nikat0r/CPP_Modules) | Exercises 00 to 08: classes, inheritance, templates and the STL, in C++98 | C++ |
 | [Net_Practice](https://github.com/Nikat0r/Net_Practice) | Network configuration exercises: addressing, subnetting and routing | N/A |
 
 ## Foundations
